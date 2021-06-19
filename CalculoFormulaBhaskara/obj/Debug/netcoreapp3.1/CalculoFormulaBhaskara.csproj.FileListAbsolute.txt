@@ -1,0 +1,13 @@
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\bin\Debug\netcoreapp3.1\CalculoFormulaBhaskara.exe
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\bin\Debug\netcoreapp3.1\CalculoFormulaBhaskara.deps.json
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\bin\Debug\netcoreapp3.1\CalculoFormulaBhaskara.runtimeconfig.json
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\bin\Debug\netcoreapp3.1\CalculoFormulaBhaskara.runtimeconfig.dev.json
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\bin\Debug\netcoreapp3.1\CalculoFormulaBhaskara.dll
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\bin\Debug\netcoreapp3.1\CalculoFormulaBhaskara.pdb
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\obj\Debug\netcoreapp3.1\CalculoFormulaBhaskara.csprojAssemblyReference.cache
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\obj\Debug\netcoreapp3.1\CalculoFormulaBhaskara.AssemblyInfoInputs.cache
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\obj\Debug\netcoreapp3.1\CalculoFormulaBhaskara.AssemblyInfo.cs
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\obj\Debug\netcoreapp3.1\CalculoFormulaBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\obj\Debug\netcoreapp3.1\CalculoFormulaBhaskara.dll
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\obj\Debug\netcoreapp3.1\CalculoFormulaBhaskara.pdb
+C:\Users\kdkek\source\repos\CalculoFormulaBhaskara\obj\Debug\netcoreapp3.1\CalculoFormulaBhaskara.genruntimeconfig.cache

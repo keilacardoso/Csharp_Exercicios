@@ -1,0 +1,13 @@
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\bin\Debug\netcoreapp3.1\SomarDigitosInteiros.exe
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\bin\Debug\netcoreapp3.1\SomarDigitosInteiros.deps.json
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\bin\Debug\netcoreapp3.1\SomarDigitosInteiros.runtimeconfig.json
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\bin\Debug\netcoreapp3.1\SomarDigitosInteiros.runtimeconfig.dev.json
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\bin\Debug\netcoreapp3.1\SomarDigitosInteiros.dll
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\bin\Debug\netcoreapp3.1\SomarDigitosInteiros.pdb
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\obj\Debug\netcoreapp3.1\SomarDigitosInteiros.csprojAssemblyReference.cache
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\obj\Debug\netcoreapp3.1\SomarDigitosInteiros.AssemblyInfoInputs.cache
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\obj\Debug\netcoreapp3.1\SomarDigitosInteiros.AssemblyInfo.cs
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\obj\Debug\netcoreapp3.1\SomarDigitosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\obj\Debug\netcoreapp3.1\SomarDigitosInteiros.dll
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\obj\Debug\netcoreapp3.1\SomarDigitosInteiros.pdb
+C:\Users\kdkek\source\repos\SomarDigitosInteiros\obj\Debug\netcoreapp3.1\SomarDigitosInteiros.genruntimeconfig.cache

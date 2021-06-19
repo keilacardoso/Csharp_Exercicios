@@ -1,0 +1,13 @@
+C:\Users\kdkek\source\repos\CalculoMDC\obj\Debug\netcoreapp3.1\CalculoMDC.csprojAssemblyReference.cache
+C:\Users\kdkek\source\repos\CalculoMDC\obj\Debug\netcoreapp3.1\CalculoMDC.AssemblyInfoInputs.cache
+C:\Users\kdkek\source\repos\CalculoMDC\obj\Debug\netcoreapp3.1\CalculoMDC.AssemblyInfo.cs
+C:\Users\kdkek\source\repos\CalculoMDC\obj\Debug\netcoreapp3.1\CalculoMDC.csproj.CoreCompileInputs.cache
+C:\Users\kdkek\source\repos\CalculoMDC\bin\Debug\netcoreapp3.1\CalculoMDC.exe
+C:\Users\kdkek\source\repos\CalculoMDC\bin\Debug\netcoreapp3.1\CalculoMDC.deps.json
+C:\Users\kdkek\source\repos\CalculoMDC\bin\Debug\netcoreapp3.1\CalculoMDC.runtimeconfig.json
+C:\Users\kdkek\source\repos\CalculoMDC\bin\Debug\netcoreapp3.1\CalculoMDC.runtimeconfig.dev.json
+C:\Users\kdkek\source\repos\CalculoMDC\bin\Debug\netcoreapp3.1\CalculoMDC.dll
+C:\Users\kdkek\source\repos\CalculoMDC\bin\Debug\netcoreapp3.1\CalculoMDC.pdb
+C:\Users\kdkek\source\repos\CalculoMDC\obj\Debug\netcoreapp3.1\CalculoMDC.dll
+C:\Users\kdkek\source\repos\CalculoMDC\obj\Debug\netcoreapp3.1\CalculoMDC.pdb
+C:\Users\kdkek\source\repos\CalculoMDC\obj\Debug\netcoreapp3.1\CalculoMDC.genruntimeconfig.cache

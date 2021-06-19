@@ -1,0 +1,13 @@
+C:\Users\kdkek\source\repos\ReajusteSalario\bin\Debug\netcoreapp3.1\ReajusteSalario.exe
+C:\Users\kdkek\source\repos\ReajusteSalario\bin\Debug\netcoreapp3.1\ReajusteSalario.deps.json
+C:\Users\kdkek\source\repos\ReajusteSalario\bin\Debug\netcoreapp3.1\ReajusteSalario.runtimeconfig.json
+C:\Users\kdkek\source\repos\ReajusteSalario\bin\Debug\netcoreapp3.1\ReajusteSalario.runtimeconfig.dev.json
+C:\Users\kdkek\source\repos\ReajusteSalario\bin\Debug\netcoreapp3.1\ReajusteSalario.dll
+C:\Users\kdkek\source\repos\ReajusteSalario\bin\Debug\netcoreapp3.1\ReajusteSalario.pdb
+C:\Users\kdkek\source\repos\ReajusteSalario\obj\Debug\netcoreapp3.1\ReajusteSalario.csprojAssemblyReference.cache
+C:\Users\kdkek\source\repos\ReajusteSalario\obj\Debug\netcoreapp3.1\ReajusteSalario.AssemblyInfoInputs.cache
+C:\Users\kdkek\source\repos\ReajusteSalario\obj\Debug\netcoreapp3.1\ReajusteSalario.AssemblyInfo.cs
+C:\Users\kdkek\source\repos\ReajusteSalario\obj\Debug\netcoreapp3.1\ReajusteSalario.csproj.CoreCompileInputs.cache
+C:\Users\kdkek\source\repos\ReajusteSalario\obj\Debug\netcoreapp3.1\ReajusteSalario.dll
+C:\Users\kdkek\source\repos\ReajusteSalario\obj\Debug\netcoreapp3.1\ReajusteSalario.pdb
+C:\Users\kdkek\source\repos\ReajusteSalario\obj\Debug\netcoreapp3.1\ReajusteSalario.genruntimeconfig.cache
